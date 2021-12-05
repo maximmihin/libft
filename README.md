@@ -8,7 +8,7 @@ The aim of this project is to code a C library regrouping usual functions that w
 
 For this library there are only 3 standard library function allowed are write() from <unistd.h>, malloc() and free() from <stdlib.h>. We are allowed also to use <string.h> for accessing size_t and NULL.
 
-For detailed information, refer to the **subject of this project**
+For detailed information, refer to the **[subject of this project](https://github.com/maximmihin/libft/blob/master/en.subject.pdf)**
 
 
 
